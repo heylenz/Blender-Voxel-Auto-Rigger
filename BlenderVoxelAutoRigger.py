@@ -141,6 +141,3 @@ def start_rig_at(target_object, to2):
   
 
     weight_object(target_object, armature)
-
-
-start_rig_at(bpy.data.objects["Hips"], bpy.data.objects["Chest"])
